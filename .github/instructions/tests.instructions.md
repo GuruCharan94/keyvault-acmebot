@@ -18,7 +18,7 @@ RULES:
 
 RULES:
 
-- Always run tests after making changes to the code
+- Always run tests on every iteration, not just after making changes
 - Fix any broken tests before committing
 - Use `dotnet test` to run all tests
 - Ensure tests pass in both local and CI environments

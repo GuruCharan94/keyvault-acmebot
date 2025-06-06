@@ -5,7 +5,7 @@ description: 'Plan a feature'
 
 Your goal is to generate a functional spec for implementing a feature based on the provided idea.
 
-Before generating the spec plan, be sure to review the README.md file to understand the project overview and existing capabilities.
+Before generating the spec plan, be sure to review the overview.md file to understand the project overview and existing capabilities.
 
 RULES:
 - Start by defining the user journey steps as simple as possible

@@ -1,6 +1,6 @@
 ---
 mode: 'agent'
-description: 'Create a proposal for new certificate management features'
+description: 'Create a proposal for new features'
 ---
 
 I will ask you to enhance the KeyVault.Acmebot project with a new feature.

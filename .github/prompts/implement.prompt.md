@@ -11,6 +11,10 @@ You do not have to strictly follow it if it does not make sense.
 
 ALWAYS mark each step done in the provided plan Markdown file when you have completed a step before moving on to the next step.
 
+For every iteration:
+- Build the project using `dotnet build`
+- Run all tests using `dotnet test`
+
 For Azure Functions implementations:
 - Follow existing patterns in the Functions/ folder
 - Use proper dependency injection

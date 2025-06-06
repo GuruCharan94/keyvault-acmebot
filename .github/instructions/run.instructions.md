@@ -6,11 +6,11 @@ applyTo: "**/*.cs"
 
 RULES:
 
-- Use `dotnet build` to build the project
-- Use `dotnet test` to run tests
+- Use `dotnet build` to build the project on every iteration
+- Use `dotnet test` to run tests on every iteration
 - For Azure Functions, use `func start` for local development
-- Only build and run when explicitly asked to
-- Do not build and run until the plan is completed (unless asked by user)
+- Only run the app locally when explicitly asked to
+- Do not run the app until the plan is completed (unless asked by user)
 
 ### Local Development
 
